@@ -24,26 +24,26 @@ system security, machine learning systems, big data systems, embedded
 systems, system virtualization, and management and troubleshooting of
 complex systems.
 
-To propose a talk, please send an email to Jian Zhang (zhang.jian3@northeastern.edu)
+To propose a talk, please send an email to Jian Zhang <zhang.jian3@northeastern.edu>
 for registering your talk, and includes one or two paragraphs describing:
 - The title of your talk
-- The speaker's name and department
+- The your name and department
 - The length of your talk (we encourage the length to be 15min)
 - An abstract of your talk
 
 
 * Schedule (subject to change)
-| Time             | Speaker                                      | Topic |
-|------------------+----------------------------------------------+-------|
-| 08:00AM          | Breakfast available                          |       |
-|------------------+----------------------------------------------+-------|
-| 9:00AM - 11:50AM | Technical sessions + break with refreshments |       |
-|------------------+----------------------------------------------+-------|
-| 11:50AM - 1:30PM | Lunch                                        |       |
-|------------------+----------------------------------------------+-------|
-| 1:30PM - 3:30AM  | Technical sessions + break with refreshments |       |
-|------------------+----------------------------------------------+-------|
-| 3:30PM           | Student networking                           |       |
+| Time             | Speaker                                       | Topic |
+|------------------+-----------------------------------------------+-------|
+| 08:00AM          | Breakfast available                           |       |
+|------------------+-----------------------------------------------+-------|
+| 9:00AM - 11:50AM | Technical sessions + breaks with refreshments |       |
+|------------------+-----------------------------------------------+-------|
+| 11:50AM - 1:30PM | Lunch                                         |       |
+|------------------+-----------------------------------------------+-------|
+| 1:30PM - 3:30AM  | Technical sessions + breaks with refreshments |       |
+|------------------+-----------------------------------------------+-------|
+| 3:30PM           | Student networking                            |       |
 
 * Sponsors
 
