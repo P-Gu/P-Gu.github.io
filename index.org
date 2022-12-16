@@ -3,8 +3,8 @@
 # +SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" herf="styles.css">
 # * 2023 NEU systems day
-# * Compile
-# (op/do-publication t nil "/home/systemsday/systemday-source-org-mode" nil)
+# * Compile (ctrl-x xtrl-e)
+# (op/do-publication t nil "/home/systemsday/systemday-source-org-mode/docs" nil)
 
 
 
