@@ -3,29 +3,16 @@
 # +SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" herf="styles.css">
 # * 2023 Northeastern Systems Day
-# * Compile (ctrl-x ctrl-e)
+# * To compile, type (ctrl-x ctrl-e) at the end of the following line
 # (op/do-publication t nil "/home/systemsday/systemday-source-org-mode/docs" nil)
+# dev webpage: https://neu-systems-day.hare1039.cloudns.cc/2023/
 
-The 2022 New England Systems Verification Day will take place on Tuesday, January 17th, 2023,
+The 2022 New England Systems Verification Day [?] will take place on Tuesday, January 17th, 2023,
 in room ISEC-655 (Northeastern University Interdisciplinary Science & Engineering Complex,
 805 Columbus Ave, Boston, MA 02120).
 
 Northeastern Systems Day is a day-long student-led event to bring together members of the
 Northeastern University community who conduct computer systems research.
-
-* Schedule
-| Time            | Speaker                                      | Topic |
-|-----------------+----------------------------------------------+-------|
-| 08:00AM         | Breakfast available                          |       |
-|-----------------+----------------------------------------------+-------|
-| 9:00AM--11:50AM | Technical sessions + break with refreshments |       |
-|-----------------+----------------------------------------------+-------|
-| 11:50AM--1:30PM | Lunch                                        |       |
-|-----------------+----------------------------------------------+-------|
-| 1:30PM--3:30AM  | Technical sessions + break with refreshments |       |
-|-----------------+----------------------------------------------+-------|
-| 3:30PM          | Student networking                           |       |
-
 
 * Call for participation
 
@@ -39,10 +26,24 @@ complex systems.
 
 To propose a talk, please send an email to Jian Zhang (zhang.jian3@northeastern.edu)
 for registering your talk, and includes one or two paragraphs describing:
-- the title of your talk
-- the speaker's name and department
-- the length of your talk (we encourage the length to be 15min)
-- an abstract of your talk
+- The title of your talk
+- The speaker's name and department
+- The length of your talk (we encourage the length to be 15min)
+- An abstract of your talk
+
+
+* Schedule (subject to change)
+| Time             | Speaker                                      | Topic |
+|------------------+----------------------------------------------+-------|
+| 08:00AM          | Breakfast available                          |       |
+|------------------+----------------------------------------------+-------|
+| 9:00AM - 11:50AM | Technical sessions + break with refreshments |       |
+|------------------+----------------------------------------------+-------|
+| 11:50AM - 1:30PM | Lunch                                        |       |
+|------------------+----------------------------------------------+-------|
+| 1:30PM - 3:30AM  | Technical sessions + break with refreshments |       |
+|------------------+----------------------------------------------+-------|
+| 3:30PM           | Student networking                           |       |
 
 * Sponsors
 
@@ -50,6 +51,6 @@ Thanks for [[https://www.khoury.northeastern.edu/][NEU Khoury College]] for fund
 
 * Contact
 
-Please send any questions to Jian Zhang <zhang.jian3@northeastern.edu>
+
 Please send any questions to Cheng Tan <c.tan@northeastern.edu> and
 Ji-Yong Shin <j.shin@northeastern.edu>.
