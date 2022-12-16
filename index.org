@@ -7,7 +7,7 @@
 # (op/do-publication t nil "/home/systemsday/systemday-source-org-mode/docs" nil)
 # dev webpage: https://neu-systems-day.hare1039.cloudns.cc/2023/
 
-The 2022 New England Systems Verification Day [?] will take place on Tuesday, January 17th, 2023,
+The 2023 Northeastern Systems Day will take place on Tuesday, January 17th, 2023,
 in room ISEC-655 (Northeastern University Interdisciplinary Science & Engineering Complex,
 805 Columbus Ave, Boston, MA 02120).
 
