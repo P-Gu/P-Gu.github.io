@@ -1,13 +1,47 @@
-
-* 2023 NEU systems day
-#
-# +OPTIONS toc:nil num:nil
+#+TITLE: 2023 NEU SYSTEMS DAY
+#+OPTIONS: toc:nil num:nil
 # +SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-# +HTML_HEAD: <link rel="stylesheet" type="text/css" herf="styles.css">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" herf="styles.css">
+# * 2023 NEU systems day
+# * Compile
+# (op/do-publication t nil "/home/systemsday/systemday-source-org-mode" nil)
 
-Hello
+
+
+The 2023 NEU Systems Day will take place on Tuesday, January 17th, 2023, in room
+3?? at the West Village H.
 
 * Schedule
 | Time    | Speaker | Topic |
 |---------+---------+-------|
 | 08:00AM |         |       |
+|---------+---------+-------|
+| Lunch   |         |       |
+|---------+---------+-------|
+| Dinner  |         |       |
+
+* Instructions for speakers
+
+[TBD]
+Each talk will be 15 minutes + 5 minutes Q&A.
+
+* Call for participation
+
+We talks about ongoing research in the area of any types of systems. We are broadly interested in most topics in this space,
+but for some examples: [TBD]
+
+To propose a talk, please send an email to Jian Zhang for registering your talk, and includes one paragraph describing:
+- What topic do you want to talk about.
+- What is the ideal length for your talk.
+- Who will give the talk.
+- Pointers to papers, tech reports, git repos, or other material about your project, if any.
+
+[TBD] Deadline
+
+* Sponsors
+
+Thanks for [[https://www.khoury.northeastern.edu/][NEU Khoury College]] for funding this event.
+
+* Contact
+
+Please send any questions to Jian Zhang <zhang.jian3@northeastern.edu>
