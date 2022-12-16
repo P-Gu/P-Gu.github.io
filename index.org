@@ -27,7 +27,7 @@ complex systems.
 To propose a talk, please send an email to Jian Zhang <zhang.jian3@northeastern.edu>
 for registering your talk, and includes one or two paragraphs describing:
 - The title of your talk
-- The your name and department
+- Your name and department
 - The length of your talk (we encourage the length to be 15min)
 - An abstract of your talk
 
