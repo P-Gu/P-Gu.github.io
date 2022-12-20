@@ -31,6 +31,9 @@ for registering your talk, and includes one or two paragraphs describing:
 - The length of your talk (we encourage the length to be 15min)
 - An abstract of your talk
 
+* Registration
+
+Please submit the following online form to register for this event: https://forms.gle/tzrdPnMw7ocAVMUo8
 
 * Schedule (subject to change)
 | Time             | Speaker                                       | Topic |
