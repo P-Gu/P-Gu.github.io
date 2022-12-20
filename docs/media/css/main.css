@@ -48,7 +48,7 @@ p {
 h1, h2, h3 {
     position: relative;
     margin: 30px 0 20px;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
     line-height: 1.1;
     color: #111;
@@ -60,6 +60,17 @@ h1:before, h2:before, h3:before {
     color: #ccc;
     display: none;
 }
+
+.org-ul {
+    position: relative;
+    left: 50px;
+}
+
+th {
+  text-align: left;
+}
+
+/*
 h1:before {
     content: "*";
     left: -1.25em;
@@ -72,6 +83,8 @@ h3:before {
     content: "***";
     left: -2.5em;
 }
+
+*/
 i, em, b, strong {
     padding-left: .1em;
     padding-right: .1em;
@@ -93,7 +106,7 @@ hr {
 hr:after {
     display: block;
     margin: 20px 0;
-    content: "----------------------------------------------------------------";
+/*    content: "----------------------------------------------------------------"; */
     color: #ccc;
 }
 ul, ol {
@@ -243,7 +256,7 @@ table th.right, table td.right {
 }
 .post:after {
     display: block;
-    content: "-----------------------------------------------------------------------------------";
+/*    content: "-----------------------------------------------------------------------------------"; */
     color: #ccc;
 }
 .post img {
