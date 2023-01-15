@@ -6,6 +6,19 @@
 # * To compile, type (ctrl-x ctrl-e) at the end of the following line
 # (op/do-publication t nil "/home/systemsday/systemday-source-org-mode/docs" nil)
 # dev webpage: https://neu-systems-day.hare1039.cloudns.cc/2023/
+@@html:
+<style>
+table colgroup col:nth-child(1) {
+    width: 22%;
+}
+table colgroup col:nth-child(2) {
+    width: 38%;
+}
+table colgroup col:nth-child(3) {
+    width: 40%;
+}
+</style>
+@@
 
 The 2023 Northeastern Systems Day will take place on Tuesday, January 17th, 2023,
 in room ISEC-655 (Northeastern University Interdisciplinary Science & Engineering Complex,
@@ -54,17 +67,17 @@ Please submit the following online form to register for this event: https://form
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|
 | 11:00AM - 11:20AM | Baolin Li                            | MISO: exploiting multi-instance GPU capability on multi-tenant GPU clusters   |
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|
-| 11:20AM - 11:40AM | Brent                                |                                                                               |
+| 11:20AM - 11:40AM | Brent Zhao                           |                                                                               |
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|
-| 11:40AM - 12:00PM | Effy                                 | Cache performance modeling with workload distributions                        |
+| 11:40AM - 12:00PM | Effy Wang                            | Cache performance modeling with workload distributions                        |
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|
-| 12:00PM - 12:10PM | Issac                                |                                                                               |
+| 12:00PM - 12:10PM | Issac Khor                           |                                                                               |
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|
 | 12:10PM - 01:30PM | Lunch                                |                                                                               |
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|
 |                   | *Distributed systems and networking* |                                                                               |
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|
-| 1:30PM - 1:50PM   | Ryan & Soufiane                      | SLFS: a File System Design with Serverless Paradigms                          |
+| 1:30PM - 1:50PM   | Ryan Yang & Soufiane Jounaid         | SLFS: a File System Design with Serverless Paradigms                          |
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|
 | 1:50PM - 2:10PM   | Ben Weintraub                        | A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools |
 |-------------------+--------------------------------------+-------------------------------------------------------------------------------|

@@ -170,10 +170,12 @@ table {
     margin-bottom: 15px;
     max-width: 100%;
     width: 100%;
+    table-layout: fixed;
 }
 table td, table th {
     padding: 0 15px;
 }
+
 table th.left, table td.left {
     text-align: left;
 }
