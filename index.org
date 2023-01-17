@@ -50,6 +50,8 @@ Please submit the following online form to register for this event: https://form
 
 * Schedule
 
+Use [[https://join.slack.com/t/northeasterns-cd65601/shared_invite/zt-1n3wdzh1j-_MuQze5enV1r4OWJ3snnAw][Slack]] to ask questions of speakers, organizers, and fellow attendees!
+
 | Time              | Speaker                                                                          | Topic                                                                         |
 |-------------------+----------------------------------------------------------------------------------+-------------------------------------------------------------------------------|
 | 08:30AM           | Breakfast available                                                              |                                                                               |
