@@ -1,8 +1,8 @@
 [Final webpage]
 
-Production: https://khoury-srg.github.io/Northeastern-Systems-Day-2023/
+Production: https://khoury-srg.github.io/Northeastern-Systems-Day-2024/
 
-Dev: https://neu-systems-day.hare1039.cloudns.cc/2023/
+Dev: https://p-gu.github.io/
 
 [To edit the webpage]
 
